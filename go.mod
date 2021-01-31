@@ -1,4 +1,5 @@
 module github.com/isaidashev/utils
+module github.com/isaidashev/utils/v2
 
 go 1.15
 
